@@ -1,0 +1,1 @@
+import{r as s,j as t}from"./index-DgB0BPg8.js";const o=()=>{const[r,e]=s.useState(0);return t.jsxs(t.Fragment,{children:[t.jsx("p",{children:r}),t.jsx("button",{onClick:()=>{e(n=>n+1)},children:"increment"})]})},u=()=>t.jsx(o,{});export{u as default};
